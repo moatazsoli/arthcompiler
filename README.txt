@@ -1,3 +1,5 @@
+// Moataz Soliman
+
 This compiler is written in SCHEME , 
 See running instructions at the bottom .
 
@@ -28,3 +30,11 @@ move 9 register-4
 subtract register-3 register-4
 times register-1 register-3
 ----------------------------------------------------
+****************** Running instrustions ******************
+
+Step 1: install DrRacket.-- > http://racket-lang.org/
+Step 2: Choose the language “pretty big” under the Language menu item.
+Step 3: open the .rkt file of the arithmatic compiler.
+Step 4: Run the definition window using the run button at the top right.
+Step 5: Enter the operation for compiling.
+**THE RUN BUTTON HAS TO BE PRESSED EVERYTIME A COMPILATION IS NEEDED
