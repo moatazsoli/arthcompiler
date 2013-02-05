@@ -32,7 +32,7 @@ times register-1 register-3
 ----------------------------------------------------
 ****************** Running instrustions ******************
 
-Step 1: install DrRacket.
+Step 1: install DrRacket.-- >   download from http://racket-lang.org/
 Step 2: Choose the language "pretty big" under the Language menu item.
 Step 3: open the .rkt file of the arithmatic compiler.
 Step 4: Run the definition window using the run button at the top right.
