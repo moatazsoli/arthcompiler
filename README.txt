@@ -17,7 +17,7 @@ It is assumed that the target machine has instructions:
 (times register-1 register-2)
 (divide register-1 register-2)
 
-All arithmetic operations will leave the result in the ?rst register argument.
+All arithmetic operations will leave the result in the 1st register argument.
 
 An example of a legal expression
 is (* (+ 3 6) (- 7 9)). and the result is :
@@ -32,8 +32,8 @@ times register-1 register-3
 ----------------------------------------------------
 ****************** Running instrustions ******************
 
-Step 1: install DrRacket.-- > http://racket-lang.org/
-Step 2: Choose the language “pretty big” under the Language menu item.
+Step 1: install DrRacket.
+Step 2: Choose the language "pretty big" under the Language menu item.
 Step 3: open the .rkt file of the arithmatic compiler.
 Step 4: Run the definition window using the run button at the top right.
 Step 5: Enter the operation for compiling.
